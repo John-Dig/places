@@ -10,8 +10,7 @@ Expected Output:
 Code: Places()
 Expected Output:
 
-## 
-.4 Test: enter more objects: notes, time of year
+.4 Test: enter more objects: notes, time of year, add SideLocation as a sub category of Place
 Code:
 Expected Output:
 
@@ -19,6 +18,8 @@ Expected Output:
 Code:
 Expected Output:
 
+starting over
+## 
 .6 Test:
 Code:
 Expected Output:
