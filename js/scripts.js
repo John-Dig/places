@@ -14,11 +14,11 @@ Place.prototype.addSideLocations = function(sL1, sL2, sL3) {
   this.sideLocations[sL2] = sL2;
   this.sideLocations[sL3] = sL3;
 }
-
-// entering places
+//#region entering places
 let boston = new Place ("0","Boston", "2014", "The Bay", "It was more humid than I thought it would be.");
 let longBeach = new Place ("1","Long Beach, CA","2015","The Pyramid","It was a nice trip");
 longBeach.addSideLocations("Joes tent", "Joes sidewalk", "Joe's suitcase");
+//#endregion
 
 console.log(longBeach);
 
